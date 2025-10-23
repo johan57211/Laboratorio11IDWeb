@@ -9,3 +9,4 @@ if (edad >= 60) {
 } else {
     console.log("Niño");
 }
+ 
