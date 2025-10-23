@@ -9,10 +9,11 @@ do{
         contador++;
     }
 
-    else console.log("Nota invalida, ingrese denuevo la nota");
+    else console.log("Nota invalida ingrese denuevo la nota");
 }
 
 while(contador<5);
 
 let promedio = suma/5;
 console.log("El promedio de las notas es: "+promedio.toFixed(2));
+
